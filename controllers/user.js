@@ -15,7 +15,7 @@ const createUser = async (req, res = response) => {
 
     const msg = {
         to: email,
-        from: 'facu29.developer@gmail.com',
+        from: 'disneyappnode@gmail.com',
         subject: 'Bienvenido a DisneyApp',
         text: 'Usuario creado correctamente'
     }
